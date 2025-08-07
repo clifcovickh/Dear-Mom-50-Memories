@@ -1,5 +1,5 @@
 import { Player } from "@lottiefiles/react-lottie-player";
-import confettiAnimation from "../assets/Congratulations.json";
+import confettiAnimation from "../../public/assets/lottie/Congratulations.json";
 
 export default function Confetti({ visible }) {
   if (!visible) return null;

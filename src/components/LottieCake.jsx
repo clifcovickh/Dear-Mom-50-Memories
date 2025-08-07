@@ -1,5 +1,5 @@
 import { Player } from '@lottiefiles/react-lottie-player';
-import cakeAnimation from '../assets/cake.json';
+import cakeAnimation from '../../public/assets/lottie/cake.json';
 
 export default function LottieCake() {
   return (
